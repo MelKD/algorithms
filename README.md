@@ -1,8 +1,5 @@
 # Algorithms
-My attempts to solve common algorithm problems in C++, Java and Python
+My attempts to solve various algorithm problems from online platforms. Primarly in C++, with some Java and Python.
 
-### List to be added as progress with this 
-1. Selection sort algorithm in CPP and Java
-2. Linear search in Java
-3. Bubble sort in Java
-4. 30 Days of Code on Hacker Rank (C++) - refresh for uni
+### Format of solutions in CPP folder
+Generally, a basic solution has been implemented, with the attempt to optimise on the first solution placed in the same file.
